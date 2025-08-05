@@ -14,7 +14,7 @@
 </p>
   
 <p>
-  Atualmente, estou focada em aprender e aplicar os fundamentos da programação, explorando JavaScript - Python - Node.js em soluções Front-End & Back-End, buscando projetos práticos para solidificar meu conhecimento.
+  Atualmente, estou atuando com foco em aprender e aplicar os fundamentos da programação, explorando JavaScript - Python - Node.js em soluções Front-End & Back-End, buscando projetos práticos para solidificar meu conhecimento.
 </p>
   
 <p>
