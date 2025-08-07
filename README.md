@@ -12,10 +12,13 @@ Atualmente, estou focada em aprender e aplicar os fundamentos da programação, 
 
 <div align="center">
 
-### 🛠️ **Tecnologias e Ferramentas**
+### 🛠️ **Tecnologias e Áreas de Conhecimento**
 * JavaScript, Python, Node.js
 * HTML5, CSS3
-* Git, GitHub, VS Code
+* Cloud Computing
+* Cultura DevOps
+* Cyber Security (DevSecOps)
+
 
 ---
 
