@@ -10,18 +10,16 @@ Atualmente, estou focada em aprender e aplicar os fundamentos da programação, 
 
 ---
 
-### 🛠️ Tecnologias e Áreas de Conhecimento  
+<div align="center">
 
+### 🛠️ **Tecnologias e Ferramentas**
 * JavaScript, Python, Node.js
 * HTML5, CSS3
-* Cloud Computing
-* Cultura DevOps
-* Cyber Security 
+* Git, GitHub, VS Code
 
 ---
 
-### 🔗 Conecte-se comigo
-
+### 🔗 **Conecte-se comigo**
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-luanova-11722b361/)
 * [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:portalthaismotta@gmail.com)
 
