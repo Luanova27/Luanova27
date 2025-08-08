@@ -15,6 +15,7 @@ Atualmente, estou focada em aprender e aplicar os fundamentos da programação, 
 ### 🛠️ **Tecnologias e Áreas de Conhecimento**
 * JavaScript, Python, Node.js
 * HTML5, CSS3
+* Desenvolvimento Full Stack
 * Cloud Computing
 * Cultura DevOps
 * Cyber Security (DevSecOps)
